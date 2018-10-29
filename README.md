@@ -4,7 +4,7 @@ Walkthrough of honeypot :
 <img src="https://github.com/Manchukonda/CodePath--Week9-HoneyPot/blob/master/HoneyPotOverview.gif" width="800">
 
 Exporting the session.json :
-<img src="https://github.com/Manchukonda/CodePath--Week9-HoneyPot/blob/master/HoneyPotSessionExportOverview.gif" width="800">
+<img src="https://github.com/Manchukonda/CodePath--Week9-HoneyPot/blob/master/HoneyPotSession.gif" width="800">
 
 # Experience:
 The Exposure with the google cloud platform was realtime. The api control and firewall control and the attacks was intresting.
