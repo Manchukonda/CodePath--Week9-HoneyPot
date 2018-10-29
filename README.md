@@ -16,27 +16,25 @@ Deployed Honeypot : dionaea
 
 # Summary Data
 
-Attacks in the last 24 hours: 955
+Attacks in the last 24 hours:1,012
 
 TOP 5 Attacker IPs:
-  209.141.35.236 (44 attacks)
-  193.106.30.154 (40 attacks)
-  185.58.224.223 (33 attacks)
-  138.68.23.156 (29 attacks)
-  142.93.36.42 (27 attacks)
-
+  209.141.35.236 (46 attacks)
+  193.106.30.154 (44 attacks)
+  185.58.224.223 (36 attacks)
+  138.68.23.156 (31 attacks)
+  142.93.36.42 (28 attacks)
 TOP 5 Attacked ports:
-  8088 (418 times)
-  445 (54 times)
-  23 (42 times)
-  3389 (13 times)
-  8080 (13 times)
-
+	8088 (444 times)
+	445 (55 times)
+	23 (47 times)
+	8080 (14 times)
+	3389 (13 times)
 TOP 5 Honey Pots:
-  dionaea (955 attacks)
+	dionaea (1,012 attacks)
 TOP 5 Sensors:
-  mhn-honeypot-1 (952 attacks)
-  None (3 attacks)
+	mhn-honeypot-1 (1,009 attacks)
+	None (3 attacks)
 
 # Issues Encountered:
 1. I have faced hardtime in browsing the external ip in the browser and opening the admin console of mhn. By inserting the port #80 in the firewall. Then the mhn admin console opened.
