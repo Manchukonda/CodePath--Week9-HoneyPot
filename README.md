@@ -12,7 +12,7 @@ Exporting the session.json :
 
 # Experience:
 The Exposure with the google cloud platform was realtime. The api control and firewall control and the attacks was intresting.
-I have encountered around 927 attacks on my honeypot.
+I have encountered around 1012 attacks via different ports on my honeypot.
 
 Deployed Honeypot : dionaea 
 
