@@ -1,5 +1,7 @@
 # CodePath--Week9-HoneyPot
 
+Time Spent : 5hrs
+
 Walkthrough of honeypot :
 
 <img src="https://github.com/Manchukonda/CodePath--Week9-HoneyPot/blob/master/HoneyPotOverview.gif" width="800">
